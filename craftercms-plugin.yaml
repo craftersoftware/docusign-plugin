@@ -15,15 +15,15 @@ plugin:
     minor: 0
     patch: 15
   description: A plugin that allows the use Docusign APIs to send contracts via email
-  documentation: "https://raw.githubusercontent.com/craftercms/docusign-plugin/main/README.md"
+  documentation: "https://raw.githubusercontent.com/craftersoftware/docusign-plugin/main/README.md"
   website:
     name: DocuSign
-    url: https://github.com/craftercms/docusign-plugin
+    url: https://github.com/craftersoftware/docusign-plugin
   media:
     screenshots:
       - title: CrafterCMS
         description: CrafterCMS Plugin for DocuSign
-        url: "https://raw.githubusercontent.com/craftercms/docusign-plugin/main/.crafter/logo.webp"
+        url: "https://raw.githubusercontent.com/craftersoftware/docusign-plugin/main/.crafter/logo.webp"
   developer:
     company:
       name: CrafterCMS
